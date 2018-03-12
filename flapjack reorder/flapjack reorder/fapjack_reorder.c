@@ -35,6 +35,7 @@ void Insert_Num_To_Orderly(
 		flapjack_size[i] = insert_num;
 	}
 }
+//ÅÅĞò
 void Reorder_flapjack(
 	unsigned char *my_flapjack_size,
 	unsigned char my_flapjack_num  //ÀÓ±ı¸öÊı
